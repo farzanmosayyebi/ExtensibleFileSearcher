@@ -1,0 +1,15 @@
+D:\Programming\BootCamp\SystemGroup\CSharpBootCampProject_FarzanMosayyebi\JsonSearchExtension\bin\Debug\net8.0\JsonSearchExtension.deps.json
+D:\Programming\BootCamp\SystemGroup\CSharpBootCampProject_FarzanMosayyebi\JsonSearchExtension\bin\Debug\net8.0\JsonSearchExtension.dll
+D:\Programming\BootCamp\SystemGroup\CSharpBootCampProject_FarzanMosayyebi\JsonSearchExtension\bin\Debug\net8.0\JsonSearchExtension.pdb
+D:\Programming\BootCamp\SystemGroup\CSharpBootCampProject_FarzanMosayyebi\JsonSearchExtension\bin\Debug\net8.0\ExtensionPlatform.dll
+D:\Programming\BootCamp\SystemGroup\CSharpBootCampProject_FarzanMosayyebi\JsonSearchExtension\bin\Debug\net8.0\ExtensionPlatform.pdb
+D:\Programming\BootCamp\SystemGroup\CSharpBootCampProject_FarzanMosayyebi\JsonSearchExtension\obj\Debug\net8.0\JsonSearchExtension.csproj.AssemblyReference.cache
+D:\Programming\BootCamp\SystemGroup\CSharpBootCampProject_FarzanMosayyebi\JsonSearchExtension\obj\Debug\net8.0\JsonSearchExtension.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\BootCamp\SystemGroup\CSharpBootCampProject_FarzanMosayyebi\JsonSearchExtension\obj\Debug\net8.0\JsonSearchExtension.AssemblyInfoInputs.cache
+D:\Programming\BootCamp\SystemGroup\CSharpBootCampProject_FarzanMosayyebi\JsonSearchExtension\obj\Debug\net8.0\JsonSearchExtension.AssemblyInfo.cs
+D:\Programming\BootCamp\SystemGroup\CSharpBootCampProject_FarzanMosayyebi\JsonSearchExtension\obj\Debug\net8.0\JsonSearchExtension.csproj.CoreCompileInputs.cache
+D:\Programming\BootCamp\SystemGroup\CSharpBootCampProject_FarzanMosayyebi\JsonSearchExtension\obj\Debug\net8.0\JsonSearchExtension.csproj.CopyComplete
+D:\Programming\BootCamp\SystemGroup\CSharpBootCampProject_FarzanMosayyebi\JsonSearchExtension\obj\Debug\net8.0\JsonSearchExtension.dll
+D:\Programming\BootCamp\SystemGroup\CSharpBootCampProject_FarzanMosayyebi\JsonSearchExtension\obj\Debug\net8.0\refint\JsonSearchExtension.dll
+D:\Programming\BootCamp\SystemGroup\CSharpBootCampProject_FarzanMosayyebi\JsonSearchExtension\obj\Debug\net8.0\JsonSearchExtension.pdb
+D:\Programming\BootCamp\SystemGroup\CSharpBootCampProject_FarzanMosayyebi\JsonSearchExtension\obj\Debug\net8.0\ref\JsonSearchExtension.dll
